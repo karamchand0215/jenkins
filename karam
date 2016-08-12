@@ -1,1 +1,4 @@
- hi
+{
+	color: "red",
+	value: "#f00"
+}
